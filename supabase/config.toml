@@ -1,0 +1,3 @@
+# Local project identifier used by the Supabase CLI.
+# Link to the remote project with:  supabase link --project-ref ffrpsrndadkbtktrlokm
+project_id = "sadhana-tracker"
